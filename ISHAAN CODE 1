@@ -1,0 +1,26 @@
+<html><><head>
+   
+    <title>Ishaan Gupta CSE SEC-c</title></head><body>
+   
+    <h1>UID - 20250100200157</h1>
+<h2>Ishaan Gupta </h2>
+
+    <h3>DOB 01/09/06</h3>
+    <h4>Hobby - Playing Piano</h4>
+   
+<h5>Used to give multiple and different heading</h5>
+<h6>S/0 santosh kumar gupta</h6>
+    <hr>
+
+
+      <p>This is a paragraph. It is used to write blocks of text in HTML.</p>
+<p>Here is another paragraph. You can use multiple paragraphs to structure your content.</p>
+
+   <br>
+    <p>This is a sentence with a line break.<br>Here is the next line after the break.</p>
+
+    <hr>
+
+<p>End of the demonstration. Thank you!</p>
+</body>
+</html>
