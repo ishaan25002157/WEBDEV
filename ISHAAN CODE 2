@@ -1,0 +1,63 @@
+<html>
+
+<head>
+
+  
+
+    <title>Ishaan Gupta CSE SEC-C</title>
+
+</head>
+
+<body>
+
+    <h1>UID-202501100200157</h1>
+
+<hr>
+
+<h2>Image </h2>
+
+<img src="C:\Users\ishaa\OneDrive\Pictures\BREEZE\935a038f-3f05-4dbd-9832-9e699bb0808b" alt="Sample Image" width="150" height="150">
+
+<p>This is an example of an image displayed using the <code><img></code> tag.</p>
+
+<hr>
+
+<h2>Ordered List Example</h2>
+
+<ol>
+
+    <li>ISHAAN</li>
+
+    <li>WEB DEV</li>
+
+    <li>ASSIGNMENT</li>
+
+</ol>
+
+<p>The above is an ordered list of web development technologies.</p>
+
+<hr>
+
+<h2>Unordered List Example</h2>
+
+<ul>
+
+    <li>Apples</li>
+
+    <li>Bananas</li>
+
+    <li>Cherries</li>
+
+</ul>
+
+<p>The above is an unordered list of fruits.</p>
+
+<!-- Anchor Tag Example -->
+
+<h2>Anchor Tag Example</h2>
+
+<p><a href="https://www.autodesk.com" target="_blank">google</a> </p>
+
+</body>
+
+</html>
